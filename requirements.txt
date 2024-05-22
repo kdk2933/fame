@@ -8,7 +8,7 @@ sphinxcontrib-httpdomain~=1.6.1
 celery~=4.1.0
 pymongo~=3.6.1
 python-magic~=0.4.15
-requests~=2.18.4
+requests~=2.32.0
 Flask-Login==0.3.2
 zxcvbn==1.0
 GitPython~=2.1.9
