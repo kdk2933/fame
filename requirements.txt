@@ -6,7 +6,7 @@ Sphinx~=1.7.4
 sphinx_rtd_theme~=0.3.1
 sphinxcontrib-httpdomain~=1.6.1
 celery~=4.1.0
-pymongo~=3.6.1
+pymongo~=4.6.3
 python-magic~=0.4.15
 requests~=2.18.4
 Flask-Login==0.3.2
